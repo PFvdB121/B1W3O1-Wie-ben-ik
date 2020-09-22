@@ -3,10 +3,12 @@ body {
 }
 h1 {
 	margin-left: 650px;
+	color: yellow;
 }
 p {
 	margin-left: 20px;
 	margin-bottom: 70px;
+	color: yellow;
 }
 img {
 	float: left;
@@ -16,5 +18,5 @@ u {
 	color: darkorange;
 }
 a {
-	color: darkred;
+	color: red;
 }
